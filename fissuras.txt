@@ -1,0 +1,39 @@
+Trincas e Fissuras
+
+A Fissuração occorre sempre que a deformação à tração a auqla o concreto está submetido excede a sua própria resistência, sendo que a capacidade de deformação à tração do concreto varia com a idade e a velocidade de aplicação de deformações.
+
+Os mecanísmos de ocorrência são movimentos gerados no interior do concreto (efeitos que causam tensões locais como nas armaduras ou em vínculos da estrutura, comumente relacionados à secagem, expansão, contração térmica etc), expansão de materiais no interior do concreto e condições externas impostas
+
+Tipos de Fissura
+
+Fissuração por retração Plástica e por Assentamento Plástico
+
+Existem dois tipos de fissuração plástica: Por retênção plástica (que ocorre habitualmente em lajes) e por Assentamento Plástico (que ocorrem nas bordas de peças de concreto).
+
+A fissuração por retênção Plástica é característica do concreto ainda fresco. Sendo causada pela tensão capilar da água nos porors do concreto, ococrrendo nas primeiras 2 a 4 horas após misturado o concreto, pouco depois do desaparecimento do brilho da pasta úmida. Sua causa ocorre quando a perda de água por evaporação supera a quantidade de água de exudação, ativando forças capilares nas águas dos poros. Ocorrem nas zonas próximas a superfície horizontal, são paralelas entre si distanciando entre 0,20 a 1m, e formando ângulos aproximados de 45º com as quinas.
+
+Outra ocorrência de fissuração por retração plástica ocorre ao longo das armaduras, devido a exudação da água e perda de volume do concreto. Merece atenção especial a fissuração horizontal por assentamento plástico, que pode ocorrer quando há pouca separação entre as armaduras. Estas fissuras causam delaminação do cobrimento de concreto sobre as armaduras. Quando coincide com outros mecanismos de deterioração, como ciclo gelo / desgelo ou corrosão das armaduras, corre-se o risco de desprendimento repentino e imprevisto da maior parte do cobrimento do concreto e consequente risco de ruptura estrutural.
+
+Fissuração por Cargas Diretas
+
+São ocasionadas por esforços produzidos por cargas aplicadas (momento fletor, esforço cortante, momento torsor etc). Valendo-se destacar os seguintes pontos:
+
+--Quando a fissura ocorrer aproximadamente pralela à direção esperada da tensão principal de tração, é provável que sejam fissuras pequenas (menores que 0,5mm) devido às cargas de serviço, normalmente quando a armadura atua no limite do escoamento.
+
+--Nos laboratórios é comum, nos ensaios, obter um grande número de fissuras com pouca separação entre si. Na prática, porém, isso não deve ocorrer, pois as cargas de serviços reais são raramente bastante elevadas para gerar um grande número de fissuras.
+
+--Quando as larguras das fissuras devido às cargas são grandes, indica quase sempre que tenha sido incorreto o cálculo estrutural, posicionamento das armaduras ou o cálculo das cargas atuantes.
+
+Fissuração causada por Deformações impostas
+
+São fissuras cuja as causas são deformações impostas na estrutura, como variação térmica, recalques etc. A principal característica é que as tensões e também as fissuras aparecem onde onde a estrutura ou elementos da mesma se opõe à movimentação imposta. Quanto maior for a coesão das estruturas mais elevada serão as tensões e mais largas e profundas serão as fissuras.
+
+As diferenças térmicas são causas frequentes deste tipo de fissuração. Também podem ocorrer devido ao resfriamento rápido do concreto de grandes volumes, devido ao elevado calor de hidratação do cimento. Estas fissuras são sempre superficiais, de poucos mm ou cm de profundidade, tipo “fissuração de mapa”. Tendem a não serem visíveis quando da redução da temperatura, sendo no entanto visíveis quando se umedece a superfície do concreto.
+
+Fissuras alinhadas com as armaduras
+
+A importância da fissuração em relação à durabilidade e a capacidade de resposta durante a vida útil da estrutura, dependem fundamentalmente da fissura seguir ou não longitudinalmente a direção das armaduras. São especialmente importantes deido à corrosão da armadura, aderência das armaduras e resistência frente aos esforços cortantes com o desenvolvimento da fissuração longitudinal.
+
+As fissuras causadas por esforços de tração ou flexão derivados das cargas diretas, ou por deformações impostas, costumam ser perpendiculares às armaduras principais. No entanto, a existência de armaduras transversais às principais, podem fazer com que as fissuras se alinhem com estas últimas.
+
+As fissuras plásticas podem ocasionalmente alinhar-se com as armaduras. As fissuras por assentamento plástico são normalmente na direção das armaduras. O risco de ocorrência de fissuração ao longo das armaduras é alto, em particular para as armaduras transversais e, especialmente, nos casos que se tem um recobrimento de concreto menor nas armaduras secundárias do que nas principais, tal como nos estribos de vigas.

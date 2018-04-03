@@ -1,0 +1,68 @@
+Corrosão
+
+A Corrosão é uma das patologias mais comuns e exercentes nos ambiebtes que existe, ela também é grande responsável por consumir 20% da produção anual de ferro e aço, sendo que em média são gastos de 1% a 5% do PIB total de um país com a degradação desses metais. Na construção, ela é uma das grandes responsáveis pelas avarias se tornando um dos principais inimigos da durabilidade.
+
+A displicência na execução do concreto armado tem se demonstrado na principal causa do início precoce da corrosão das armaduras, principalmente pelos seguintes fatos:
+
+-- recobrimento das armaduras abaixo dos valores recomendados pelas normas da ABNT.
+-- concreto executado com elevado fator água/cimento, acarretando elevada porosidade do concreto e fissuras de retração.
+-- ausência ou deficiência de cura do concreto, propiciando a ocorrência de fissuras,
+porosidade excessiva, diminuição da resistência, etc.
+-- segregação do concreto com formação de ninhos de concretagem, erros de traço,
+lançamento e vibração incorretos, formas inadequadas, etc.
+
+Pode-se ainda dizer que o concreto fornece às armaduras de metal dupla proteção; sendo uma na barreira física que constroi contra os elementos agressivos do ambiente externo e um recobrimento alcalino como uma capa passivadora. Essa capa passivadora é um solução que recobre o metal, formada de íons OH- devidos aos hidrõxidos de cálcio e potássio.
+
+Mecanísmos de Corrosão
+
+A corrosão das armaduras pode-se originar por uma ação química ou eletroquímica, resultando numa modificação do aço de forma contínua, até que todo o aço se transforme em ferrugem.
+
+Corrosão Química 
+
+É o processo de reação química do gás(ar atmosférico) diretamente com o metal, a conhecida oxidação forma compostos de óxido de ferros (Fe2O3). Trata-se de um processo muito lento e não provoca a deterioração substancial das armaduras.
+
+Corrosão Eletroquímica
+
+Ocorre em meio principalmente aquoso, sendo o processo mais sério dentro das construções pela velocidade em que é capaz de deteriorar as estruturas. Os produtos gerados ao fim da reação química são óxidos e hidrõxidos de ferro, de cor avermelhada, pulverulenta e porosa (a ferrugem).
+
+Para que existe corrosão do tipo eletroquímica são necessários fatores como: presença de eletrólitos, que são sais e íons dissolvidos dos materiais aglomerantes ou até externos na matriz do concreto (Cloretos, Sulfetos, Nitritos, Amônia etc). Diferença de potencial, bastante haver uma ddp em pontos da armadura causados por umidade, concentração salina entre outros para criar uma corrente elétrica entre dois pontos. Presença de Oxigênio, que é necessária para formação de óxidos de ferro, na região anôdica eletroquímica formada no concreto.
+
+Os fenômenos de corrosão são expansivos gerando tensões que causam fissuras no concreto o que pode acarretar mais exposição ao ambiente externo e consequentemente o aumento nas perdas. Quando a ação eletrolítica é formada em regiões pntuais (micro-pilhas), pode ocorrer corrosão localizada e não generalizada, formando pequenas gretas, cicatrizes por fendas pequenas na armaduara, que pode se tornar bastatnte intensa e perigosa.
+
+Corrosão em espaços Confinados
+
+A Corrosão em espaços confinados pode ocorrer quando sobre a superfície do aço existe um espaço sulficiente resguardad que evita o acesso contínuo de oxigênio, podendo criar zonas diferenciais de oxigênio que induzem a corrosão.
+
+Algumas situações como injeção de fissuras com resina epoxi ou em revestimentos de aço em epóxi, são casos desse tipo de corrosão. Sendo possível que um meio agressivo já tenha atingido a armadura, sendo acelerada pela falta de oxigênio. Ou, no segundo caso, quando a adesão do aço esatá deteriorada e reações fazem que o PH diminua e perda a aderância, fazendo que cloretos penetrem no concreto.
+
+Corrosão sob Tensão
+
+A Corrosão sob Tensão ocorre quando existem: esforços de tração e um meio agressivo associado. Sendo muito mais comum em Concretos Protendidos, onde são utilizados aço de alta resistência em conjunto da presença de hidrogênio difundido através do metal. Sendo que o hidrogênio pode surgir de diferentes fontes, como na corrosão do aço, proteção ctódica etc. Este tipo de corrosão é bastante específica e ocorre normalmente em concretos de baixa qualidade (com mal preenchimento de bainhas, ou presença de cloretos em aditivos de concreto).
+
+A presença de 'pits', em concretos protendidos, causada por ions de cloretos induzem ao aço corrosão por tensão. E a maneira de se confirmar tal processo é através de observação microscópica da superfície fraturada do aço. Danos desse tipo são considerados catastróficos, uma vez que traz perda de ductibilidade do metal e também causa a sua fratura.
+
+Corrosão por correntes de interferência
+
+Constituem-se correntes de interferência, ou correntes erráticas ou de fuga, as correntes elétricas que fluem em uma estrutura e que não formam parte de circuito elétrico ou célula voltáica. Para ocorrer esse tipo de corrosão é necessário existir um intercâmbio de corrente entre o aço e um meio eletrolítico. As correntes contínuas possuem um efeito mais pronunciativos, pois fluem em um único sentido; enquanto a corrente alternada inverte sua própria direção o que gera efeitos menos pronunciativos.
+
+As fontes mais comuns destes tipo de corrente são: sistemas de proteção catódica operando nas cercanias de estruturas de concreto armado, principalmente em meios de baixa resistividade (como em água salobra), sistemas de potência elétrica (como trens elétricos, metrôs, máquinas de soldae); e em correntes telúricas (relacionadas a atividade solar e ao campo magnético da terra).
+
+Independente da fonte, as correntes que fluem em um meio eletrolítico, são manifestações de diferenças de voltagem. Se no entorno destes gradientes de voltagens, se encontra situada uma estrutura de concreto armado, pode existir um intercâmbio de corrente com o mesmo, de onde o ponto de entrada da corrente atuaria como cátodo, e a saída seria a zona anódica que poderia causar a dissolução do metal, corroendo-o. relevando que se o aço do concreto armado estiver passivado em concreto não contaminado por cloretos essas correntes de interferências não produzirão corrosão, somente se possuir certa quantidade de cloretos.
+
+Corrosão uniforme generalizada
+
+Essa corrosão é resultante de perda generalizada da película passivadora, que é resultante da carbonatação do concreto e altas quantidde de íons cloreto. Também pode ocorrer a "lixiviação" de componentes alcalinos por causa da percolação de água.
+
+Corrosão Galvânica
+
+A Corrosão galvânica acontece quando existem dois metais diferentes em meio eletrolítico. No caso do concreto é comum acontecer quando alguma zona se danifica ou não é formada uma capa passivadora. esssa zona passa a atuar como um ânodo, frente ao material onde permanece a passivação, que atuará como aátodo. Essa corrosão também pode acontecer quando o aço entra em contato com outros condutores mais nobres.
+
+Corrosão por Cloretos
+
+Esta é uma corrosão comumumente associada com as demais por sua facilidade de atuar na reação. Ela ocorre pela dissolução da capa passivadora de corrosão através da entrada de cloretos do meio externo para o concreto, ou nos casos onde existe a contaminação nos componentes que formaram o concreto (seja através da água, aditivos ou agregados).
+
+A ação dos íons de cloreto formam uma celula de corrosão onde a capa existe uma capa passiva intacta, atuando como cátodo, no qual se produz oxigênio e uma pequena parte onde se perde a capa passivadora, atuando como ânodo, no qual é produzida a corrosão. As corrosões por cloretos são autocatalíticas e após iniciadas permanecem em contínuo crescimento.
+
+No ânodo se produzem ácido, devido aos íons de cloretos favorecerem a hidrólise do Fe na água, para se formar H+ e Cl- livres. Ocorre a redução do pH localmente e os íons cloretos permanecem no meio para seguir intervindo no processo de corrosão, agravando o problema.
+
+Os cloretos destroem de forma pontual a capa passivadora, podendo produzir uma ruptura pontual do aço. Em ambiente marítimo, o cloreto pode penetrar pela rede de poros. O concreto também pode ser contaminado com cloretos através de aditivos aceleradores, água contaminada, ambiente industrial (papel, celulose, fertilizantes, etc.), dentre outros.
